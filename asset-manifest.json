@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ApoloSolInvictus/oraculo-apolo.git/static/css/main.f855e6bc.css",
+    "main.js": "/ApoloSolInvictus/oraculo-apolo.git/static/js/main.0acb5a17.js",
+    "static/js/453.b8f09f3d.chunk.js": "/ApoloSolInvictus/oraculo-apolo.git/static/js/453.b8f09f3d.chunk.js",
+    "static/media/logo.svg": "/ApoloSolInvictus/oraculo-apolo.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ApoloSolInvictus/oraculo-apolo.git/index.html",
+    "main.f855e6bc.css.map": "/ApoloSolInvictus/oraculo-apolo.git/static/css/main.f855e6bc.css.map",
+    "main.0acb5a17.js.map": "/ApoloSolInvictus/oraculo-apolo.git/static/js/main.0acb5a17.js.map",
+    "453.b8f09f3d.chunk.js.map": "/ApoloSolInvictus/oraculo-apolo.git/static/js/453.b8f09f3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0acb5a17.js"
+  ]
+}
