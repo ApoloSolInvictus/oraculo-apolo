@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oraculo-apolo/static/css/main.a3608aa5.css",
+    "main.js": "/oraculo-apolo/static/js/main.17ba41df.js",
+    "index.html": "/oraculo-apolo/index.html",
+    "main.a3608aa5.css.map": "/oraculo-apolo/static/css/main.a3608aa5.css.map",
+    "main.17ba41df.js.map": "/oraculo-apolo/static/js/main.17ba41df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3608aa5.css",
+    "static/js/main.17ba41df.js"
+  ]
+}
